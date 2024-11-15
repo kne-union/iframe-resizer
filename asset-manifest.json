@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/iframe-resizer/static/js/main.4f4ae457.js",
-    "iframe_resizer_0_1_2.js": "/iframe-resizer/remoteEntry.js",
+    "iframe_resizer_0_1_3.js": "/iframe-resizer/remoteEntry.js",
     "static/css/414.83be5c26.chunk.css": "/iframe-resizer/static/css/414.83be5c26.chunk.css",
     "static/js/414.860d8837.chunk.js": "/iframe-resizer/static/js/414.860d8837.chunk.js",
     "static/js/488.3b15f4fa.chunk.js": "/iframe-resizer/static/js/488.3b15f4fa.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/139.3890151b.chunk.js": "/iframe-resizer/static/js/139.3890151b.chunk.js",
     "static/js/446.1212358c.chunk.js": "/iframe-resizer/static/js/446.1212358c.chunk.js",
     "static/js/233.9ee7d921.chunk.js": "/iframe-resizer/static/js/233.9ee7d921.chunk.js",
-    "static/js/690.f1e62ea3.chunk.js": "/iframe-resizer/static/js/690.f1e62ea3.chunk.js",
+    "static/js/690.98a7958b.chunk.js": "/iframe-resizer/static/js/690.98a7958b.chunk.js",
     "static/js/201.96230e13.chunk.js": "/iframe-resizer/static/js/201.96230e13.chunk.js",
     "static/js/344.a3f2b1fa.chunk.js": "/iframe-resizer/static/js/344.a3f2b1fa.chunk.js",
     "static/js/705.67d0f763.chunk.js": "/iframe-resizer/static/js/705.67d0f763.chunk.js",
@@ -28,7 +28,7 @@
     "139.3890151b.chunk.js.map": "/iframe-resizer/static/js/139.3890151b.chunk.js.map",
     "446.1212358c.chunk.js.map": "/iframe-resizer/static/js/446.1212358c.chunk.js.map",
     "233.9ee7d921.chunk.js.map": "/iframe-resizer/static/js/233.9ee7d921.chunk.js.map",
-    "690.f1e62ea3.chunk.js.map": "/iframe-resizer/static/js/690.f1e62ea3.chunk.js.map",
+    "690.98a7958b.chunk.js.map": "/iframe-resizer/static/js/690.98a7958b.chunk.js.map",
     "201.96230e13.chunk.js.map": "/iframe-resizer/static/js/201.96230e13.chunk.js.map",
     "344.a3f2b1fa.chunk.js.map": "/iframe-resizer/static/js/344.a3f2b1fa.chunk.js.map",
     "705.67d0f763.chunk.js.map": "/iframe-resizer/static/js/705.67d0f763.chunk.js.map",
