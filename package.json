@@ -1,7 +1,7 @@
 {
   "name": "@kne/iframe-resizer",
   "version": "0.1.0",
-  "description": "用于自动计算内部iframe的高度",
+  "description": "用于自动计算内部iframe的高度.",
   "syntax": {
     "esmodules": true
   },
